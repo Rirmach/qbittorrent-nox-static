@@ -893,7 +893,7 @@ _set_module_urls() {
 	qbt_workflow_archive_url[libtorrent]="https://github.com/userdocs/qbt-workflow-files/releases/latest/download/libtorrent.${github_tag[libtorrent]/v/}.tar.xz"
 	qbt_workflow_archive_url[qtbase]="https://github.com/userdocs/qbt-workflow-files/releases/latest/download/qt${qbt_qt_version:0:1}base.tar.xz"
 	qbt_workflow_archive_url[qttools]="https://github.com/userdocs/qbt-workflow-files/releases/latest/download/qt${qbt_qt_version:0:1}tools.tar.xz"
-	qbt_workflow_archive_url[qbittorrent]="https://github.com/userdocs/qbt-workflow-files/releases/latest/download/qbittorrent.tar.xz"
+	qbt_workflow_archive_url[qbittorrent]="https://github.com/Rirmach/qBittorrent-Enhanced-Edition/releases/latest/download/qbittorrent.tar.xz"
 	##########################################################################################################################################################
 	# Configure workflow override options
 	##########################################################################################################################################################
